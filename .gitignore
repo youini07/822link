@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-electron
+release
+.env
+.DS_Store
+database.sqlite
+scratch
+*.log
+python/credentials.json

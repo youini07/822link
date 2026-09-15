@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:local": "vite build --outDir C:\\vite_local_build_temp && (if exist dist_prebuilt rmdir /s /q dist_prebuilt) && mkdir dist_prebuilt && xcopy /E /I /Y C:\\vite_local_build_temp dist_prebuilt && rmdir /s /q C:\\vite_local_build_temp",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^3.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.24",
+    "axios": "^1.13.5",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.11.0",
+    "lucide-react": "^0.575.0",
+    "postcss": "^8.5.6",
+    "react-router-dom": "^7.13.1",
+    "tailwindcss": "^4.2.1",
+    "vite": "^5.4.10"
+  }
+}

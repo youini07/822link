@@ -1,0 +1,1 @@
+const fs = require('fs'); let content = fs.readFileSync('electron/sniper.ts', 'utf8');  content = content.replace(/await page\.waitForTimeout\(300\); \/\/ 由ъ븸??DOM ?뚭눼 ?좊땲硫붿씠???湲?g, "await page.waitForTimeout(100); // 由ъ븸??DOM ?뚭눼 ?좊땲硫붿씠???湲?);  fs.writeFileSync('electron/sniper.ts', content); console.log("Updated to 100ms");

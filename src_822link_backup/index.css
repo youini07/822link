@@ -1,0 +1,147 @@
+/**
+ * 822 Link - 글로벌 CSS (Windows 11 Explorer Light Theme)
+ * 
+ * Tailwind CSS v4 사용 (import 방식)
+ * 커스텀 CSS 변수로 윈도우 11 라이트 테마의 색상 팔레트와 디자인 시스템을 중앙 관리
+ */
+@import "tailwindcss";
+
+/* ──── 커스텀 폰트 (윈도우 기본 폰트 최우선) ──── */
+:root {
+  font-family: 'Malgun Gothic', '맑은 고딕', 'Segoe UI', system-ui, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ──── 윈도우 11 라이트 테마 색상 팔레트 (CSS 변수) ──── */
+:root {
+  /* 배경색 계열 */
+  --bg-primary: #ffffff;        /* 메인 콘텐츠 영역 배경 (화이트) */
+  --bg-secondary: #f3f3f3;      /* 탭바, 상단 툴바, 사이드바 배경 (윈도우 라이트 그레이) */
+  --bg-tertiary: #eaeaea;       /* 사이드바 메뉴 호버 및 선택 영역 */
+  --bg-card: #ffffff;           /* 카드 및 폼 배경 */
+  --bg-input: #ffffff;          /* 입력창 배경 */
+
+  /* 액센트 컬러 (윈도우 11 기본 블루) */
+  --accent-primary: #0078d4;
+  --accent-secondary: #005a9e;
+  --accent-hover: #eff6fc;      /* 항목 호버 시 옅은 블루 배경 */
+  --accent-glow: rgba(0, 120, 212, 0.1);
+
+  /* 텍스트 색상 */
+  --text-primary: #202020;      /* 어두운 그레이/블랙 */
+  --text-secondary: #616161;    /* 설명 및 보조 텍스트 그레이 */
+  --text-muted: #a1a1a1;        /* 비활성화 텍스트 */
+
+  /* 상태 색상 */
+  --status-success: #107c10;    /* 윈도우 녹색 */
+  --status-warning: #d83b01;    /* 윈도우 주황색 */
+  --status-error: #e81123;      /* 윈도우 빨간색 */
+  --status-info: #0078d4;
+
+  /* 보더 */
+  --border-default: #e5e5e5;    /* 얇고 밝은 회색 테두리 */
+  --border-hover: #cccccc;      /* 인풋 포커스 전 호버 시 보더 */
+
+  /* 그림자 (윈도우 11 플라이아웃 및 다이얼로그 그림자) */
+  --shadow-dialog: 0 8px 16px rgba(0, 0, 0, 0.14), 0 0 2px rgba(0, 0, 0, 0.12);
+}
+
+/* ──── 기본 스타일 ──── */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+}
+
+/* ──── 스크롤바 커스텀 (클릭하기 쉬운 넉넉한 두께) ──── */
+::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b0b0b0;
+  border-radius: 7px;
+  border: 3px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+/* ──── Electron 타이틀바 영역 드래그 ──── */
+.drag-region {
+  -webkit-app-region: drag;
+}
+
+.no-drag {
+  -webkit-app-region: no-drag;
+}
+
+/* ──── 유틸리티 애니메이션 ──── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.2s ease-out;
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+/* ──── 윈도우 표준 다이얼로그 카드 ──── */
+.win-dialog-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-default);
+  border-radius: 8px;
+  box-shadow: var(--shadow-dialog);
+}
+
+/* ──── 인풋 포커스 효과 (윈도우 11 텍스트 박스 스타일) ──── */
+.input-glow:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  /* 하단에 살짝 더 진한 파란색 강조선 느낌 */
+  box-shadow: inset 0 -2px 0 0 var(--accent-primary);
+}
+
+/* ──── 상태 인디케이터 ──── */
+.led-active {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--status-success);
+}
+
+.led-inactive {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--text-muted);
+}

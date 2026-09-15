@@ -1,0 +1,16 @@
+[phases.setup]
+nixPkgs = ["nodejs_18", "python311", "python311Packages.pip"]
+
+[phases.install]
+cmds = [
+    "npm install",
+    "pip install --break-system-packages -r requirements.txt || true"
+]
+
+[phases.build]
+cmds = [
+    "python3 migrate_data.py || true"
+]
+
+[start]
+cmd = "python3 migrate_data.py || true && node index.js"

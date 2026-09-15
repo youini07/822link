@@ -1,0 +1,4036 @@
+[
+  {
+    "id": "310",
+    "title": "여성의류",
+    "subCategories": [
+      {
+        "id": "310300",
+        "title": "아우터",
+        "subCategories": [
+          {
+            "id": "310300200",
+            "title": "패딩",
+            "subCategories": []
+          },
+          {
+            "id": "310300100",
+            "title": "점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "310300300",
+            "title": "코트",
+            "subCategories": []
+          },
+          {
+            "id": "310300400",
+            "title": "자켓",
+            "subCategories": []
+          },
+          {
+            "id": "310300600",
+            "title": "가디건",
+            "subCategories": []
+          },
+          {
+            "id": "310300500",
+            "title": "조끼/베스트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310260",
+        "title": "상의",
+        "subCategories": [
+          {
+            "id": "310260800",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "310260700",
+            "title": "후드티/후드집업",
+            "subCategories": []
+          },
+          {
+            "id": "310260600",
+            "title": "맨투맨",
+            "subCategories": []
+          },
+          {
+            "id": "310260500",
+            "title": "블라우스",
+            "subCategories": []
+          },
+          {
+            "id": "310260400",
+            "title": "셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "310260100",
+            "title": "반팔 티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "310260200",
+            "title": "긴팔 티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "310260300",
+            "title": "민소매 티셔츠",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310150",
+        "title": "바지",
+        "subCategories": [
+          {
+            "id": "310150080",
+            "title": "데님/청바지",
+            "subCategories": []
+          },
+          {
+            "id": "310150010",
+            "title": "슬랙스",
+            "subCategories": []
+          },
+          {
+            "id": "310150030",
+            "title": "면바지",
+            "subCategories": []
+          },
+          {
+            "id": "310150090",
+            "title": "반바지",
+            "subCategories": []
+          },
+          {
+            "id": "310150040",
+            "title": "트레이닝/조거팬츠",
+            "subCategories": []
+          },
+          {
+            "id": "310150070",
+            "title": "레깅스",
+            "subCategories": []
+          },
+          {
+            "id": "310150999",
+            "title": "기타 바지",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310130",
+        "title": "치마",
+        "subCategories": [
+          {
+            "id": "310130030",
+            "title": "롱 스커트",
+            "subCategories": []
+          },
+          {
+            "id": "310130080",
+            "title": "미디 스커트",
+            "subCategories": []
+          },
+          {
+            "id": "310130040",
+            "title": "미니 스커트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310120",
+        "title": "원피스",
+        "subCategories": [
+          {
+            "id": "310120030",
+            "title": "롱 원피스",
+            "subCategories": []
+          },
+          {
+            "id": "310120110",
+            "title": "미디 원피스",
+            "subCategories": []
+          },
+          {
+            "id": "310120020",
+            "title": "미니 원피스",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310250",
+        "title": "점프수트",
+        "subCategories": []
+      },
+      {
+        "id": "310400",
+        "title": "셋업/세트",
+        "subCategories": [
+          {
+            "id": "310400100",
+            "title": "정장/셋업",
+            "subCategories": []
+          },
+          {
+            "id": "310400200",
+            "title": "트레이닝/스웨트 셋업",
+            "subCategories": []
+          },
+          {
+            "id": "310400999",
+            "title": "기타 셋업/세트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310200",
+        "title": "언더웨어/홈웨어",
+        "subCategories": [
+          {
+            "id": "310200200",
+            "title": "홈웨어",
+            "subCategories": []
+          },
+          {
+            "id": "310200100",
+            "title": "언더웨어",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "310220",
+        "title": "테마/이벤트",
+        "subCategories": [
+          {
+            "id": "310220300",
+            "title": "코스튬/코스프레",
+            "subCategories": []
+          },
+          {
+            "id": "310220100",
+            "title": "한복",
+            "subCategories": []
+          },
+          {
+            "id": "310220200",
+            "title": "드레스",
+            "subCategories": []
+          },
+          {
+            "id": "310220998",
+            "title": "기타 테마/이벤트",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "title": "남성의류",
+    "subCategories": [
+      {
+        "id": "320300",
+        "title": "아우터",
+        "subCategories": [
+          {
+            "id": "320300300",
+            "title": "패딩",
+            "subCategories": []
+          },
+          {
+            "id": "320300200",
+            "title": "점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "320300100",
+            "title": "코트",
+            "subCategories": []
+          },
+          {
+            "id": "320300400",
+            "title": "자켓",
+            "subCategories": []
+          },
+          {
+            "id": "320300600",
+            "title": "가디건",
+            "subCategories": []
+          },
+          {
+            "id": "320300500",
+            "title": "조끼/베스트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "320210",
+        "title": "상의",
+        "subCategories": [
+          {
+            "id": "320210600",
+            "title": "후드티/후드집업",
+            "subCategories": []
+          },
+          {
+            "id": "320210500",
+            "title": "맨투맨",
+            "subCategories": []
+          },
+          {
+            "id": "320210700",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "320210400",
+            "title": "셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "320210100",
+            "title": "반팔 티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "320210200",
+            "title": "긴팔 티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "320210300",
+            "title": "민소매 티셔츠",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "320120",
+        "title": "바지",
+        "subCategories": [
+          {
+            "id": "320120600",
+            "title": "데님/청바지",
+            "subCategories": []
+          },
+          {
+            "id": "320120100",
+            "title": "면바지",
+            "subCategories": []
+          },
+          {
+            "id": "320120200",
+            "title": "슬랙스",
+            "subCategories": []
+          },
+          {
+            "id": "320120300",
+            "title": "트레이닝/조거팬츠",
+            "subCategories": []
+          },
+          {
+            "id": "320120700",
+            "title": "반바지",
+            "subCategories": []
+          },
+          {
+            "id": "320120999",
+            "title": "기타 바지",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "320400",
+        "title": "점프수트",
+        "subCategories": []
+      },
+      {
+        "id": "320500",
+        "title": "셋업/세트",
+        "subCategories": [
+          {
+            "id": "320500100",
+            "title": "정장/셋업",
+            "subCategories": []
+          },
+          {
+            "id": "320500200",
+            "title": "트레이닝/스웨트 셋업",
+            "subCategories": []
+          },
+          {
+            "id": "320500999",
+            "title": "기타 셋업/세트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "320160",
+        "title": "언더웨어/홈웨어",
+        "subCategories": [
+          {
+            "id": "320160700",
+            "title": "언더웨어",
+            "subCategories": []
+          },
+          {
+            "id": "320160800",
+            "title": "홈웨어",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "320180",
+        "title": "테마/이벤트",
+        "subCategories": [
+          {
+            "id": "320180700",
+            "title": "코스튬/코스프레",
+            "subCategories": []
+          },
+          {
+            "id": "320180600",
+            "title": "한복",
+            "subCategories": []
+          },
+          {
+            "id": "320180998",
+            "title": "기타 테마/이벤트",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "405",
+    "title": "신발",
+    "subCategories": [
+      {
+        "id": "405100",
+        "title": "스니커즈",
+        "subCategories": []
+      },
+      {
+        "id": "405300",
+        "title": "남성화",
+        "subCategories": [
+          {
+            "id": "405300300",
+            "title": "샌들/슬리퍼",
+            "subCategories": []
+          },
+          {
+            "id": "405300100",
+            "title": "구두/로퍼",
+            "subCategories": []
+          },
+          {
+            "id": "405300200",
+            "title": "워커/부츠",
+            "subCategories": []
+          },
+          {
+            "id": "405300999",
+            "title": "기타 남성화",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "405200",
+        "title": "여성화",
+        "subCategories": [
+          {
+            "id": "405200300",
+            "title": "샌들/슬리퍼",
+            "subCategories": []
+          },
+          {
+            "id": "405200400",
+            "title": "구두",
+            "subCategories": []
+          },
+          {
+            "id": "405200100",
+            "title": "단화/플랫슈즈",
+            "subCategories": []
+          },
+          {
+            "id": "405200200",
+            "title": "워커/부츠",
+            "subCategories": []
+          },
+          {
+            "id": "405200999",
+            "title": "기타 여성화",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "405400",
+        "title": "스포츠화",
+        "subCategories": [
+          {
+            "id": "405400200",
+            "title": "농구화",
+            "subCategories": []
+          },
+          {
+            "id": "405400300",
+            "title": "골프화",
+            "subCategories": []
+          },
+          {
+            "id": "405400400",
+            "title": "축구/풋살화",
+            "subCategories": []
+          },
+          {
+            "id": "405400500",
+            "title": "테니스화",
+            "subCategories": []
+          },
+          {
+            "id": "405400100",
+            "title": "등산화/트레킹화",
+            "subCategories": []
+          },
+          {
+            "id": "405400600",
+            "title": "야구화",
+            "subCategories": []
+          },
+          {
+            "id": "405400999",
+            "title": "기타 스포츠화",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "430",
+    "title": "가방/지갑",
+    "subCategories": [
+      {
+        "id": "430100",
+        "title": "여성가방",
+        "subCategories": [
+          {
+            "id": "430100400",
+            "title": "클러치백",
+            "subCategories": []
+          },
+          {
+            "id": "430100100",
+            "title": "숄더백",
+            "subCategories": []
+          },
+          {
+            "id": "430100200",
+            "title": "크로스백",
+            "subCategories": []
+          },
+          {
+            "id": "430100300",
+            "title": "토트백",
+            "subCategories": []
+          },
+          {
+            "id": "430100500",
+            "title": "백팩",
+            "subCategories": []
+          },
+          {
+            "id": "430100999",
+            "title": "기타 여성가방",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "430200",
+        "title": "남성가방",
+        "subCategories": [
+          {
+            "id": "430200100",
+            "title": "클러치",
+            "subCategories": []
+          },
+          {
+            "id": "430200300",
+            "title": "숄더백",
+            "subCategories": []
+          },
+          {
+            "id": "430200200",
+            "title": "크로스백",
+            "subCategories": []
+          },
+          {
+            "id": "430200500",
+            "title": "브리프케이스",
+            "subCategories": []
+          },
+          {
+            "id": "430200400",
+            "title": "백팩",
+            "subCategories": []
+          },
+          {
+            "id": "430200999",
+            "title": "기타 남성가방",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "430300",
+        "title": "여행용 가방",
+        "subCategories": [
+          {
+            "id": "430300100",
+            "title": "캐리어",
+            "subCategories": []
+          },
+          {
+            "id": "430300999",
+            "title": "기타 여행용 가방",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "430400",
+        "title": "여성지갑",
+        "subCategories": []
+      },
+      {
+        "id": "430500",
+        "title": "남성지갑",
+        "subCategories": []
+      },
+      {
+        "id": "430999",
+        "title": "기타 지갑",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "421",
+    "title": "시계",
+    "subCategories": [
+      {
+        "id": "421200",
+        "title": "남성시계",
+        "subCategories": [
+          {
+            "id": "421200200",
+            "title": "프리미엄 시계(쿼츠)",
+            "subCategories": []
+          },
+          {
+            "id": "421200300",
+            "title": "프리미엄 시계(기계식)",
+            "subCategories": []
+          },
+          {
+            "id": "421200100",
+            "title": "일반 시계(디지털)",
+            "subCategories": []
+          },
+          {
+            "id": "421200400",
+            "title": "일반 시계(메탈 밴드)",
+            "subCategories": []
+          },
+          {
+            "id": "421200500",
+            "title": "일반 시계(가죽 밴드)",
+            "subCategories": []
+          },
+          {
+            "id": "421200600",
+            "title": "일반 시계(기타 밴드)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "421100",
+        "title": "여성시계",
+        "subCategories": [
+          {
+            "id": "421100200",
+            "title": "프리미엄 시계(쿼츠)",
+            "subCategories": []
+          },
+          {
+            "id": "421100300",
+            "title": "프리미엄 시계(기계식)",
+            "subCategories": []
+          },
+          {
+            "id": "421100100",
+            "title": "일반 시계(디지털)",
+            "subCategories": []
+          },
+          {
+            "id": "421100400",
+            "title": "일반 시계(메탈 밴드)",
+            "subCategories": []
+          },
+          {
+            "id": "421100500",
+            "title": "일반 시계(가죽 밴드)",
+            "subCategories": []
+          },
+          {
+            "id": "421100600",
+            "title": "일반 시계(기타 밴드)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "421300",
+        "title": "시계용품",
+        "subCategories": [
+          {
+            "id": "421300100",
+            "title": "스트랩",
+            "subCategories": []
+          },
+          {
+            "id": "421300999",
+            "title": "기타 시계용품",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "422",
+    "title": "쥬얼리",
+    "subCategories": [
+      {
+        "id": "422200",
+        "title": "귀걸이/피어싱",
+        "subCategories": [
+          {
+            "id": "422200100",
+            "title": "다이아몬드 귀걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422200200",
+            "title": "금 귀걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422200300",
+            "title": "은 귀걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422200400",
+            "title": "진주/유색보석 귀걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422200500",
+            "title": "패션 귀걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422200600",
+            "title": "피어싱",
+            "subCategories": []
+          },
+          {
+            "id": "422200700",
+            "title": "귀찌/이어커프",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422100",
+        "title": "목걸이/펜던트",
+        "subCategories": [
+          {
+            "id": "422100100",
+            "title": "다이아몬드 목걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422100200",
+            "title": "금 목걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422100300",
+            "title": "은 목걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422100400",
+            "title": "진주/유색보석 목걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422100500",
+            "title": "패션 목걸이",
+            "subCategories": []
+          },
+          {
+            "id": "422100600",
+            "title": "초커",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422300",
+        "title": "팔찌",
+        "subCategories": [
+          {
+            "id": "422300100",
+            "title": "금팔찌",
+            "subCategories": []
+          },
+          {
+            "id": "422300200",
+            "title": "은팔찌",
+            "subCategories": []
+          },
+          {
+            "id": "422300300",
+            "title": "패션 팔찌",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422400",
+        "title": "발찌",
+        "subCategories": [
+          {
+            "id": "422400100",
+            "title": "금발찌",
+            "subCategories": []
+          },
+          {
+            "id": "422400200",
+            "title": "패션발찌",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422500",
+        "title": "반지",
+        "subCategories": [
+          {
+            "id": "422500100",
+            "title": "다이아몬드 반지",
+            "subCategories": []
+          },
+          {
+            "id": "422500200",
+            "title": "금반지",
+            "subCategories": []
+          },
+          {
+            "id": "422500300",
+            "title": "은반지",
+            "subCategories": []
+          },
+          {
+            "id": "422500400",
+            "title": "진주/유색보석 반지",
+            "subCategories": []
+          },
+          {
+            "id": "422500500",
+            "title": "패션반지",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422600",
+        "title": "쥬얼리 세트",
+        "subCategories": [
+          {
+            "id": "422600100",
+            "title": "귀금속 쥬얼리 세트",
+            "subCategories": []
+          },
+          {
+            "id": "422600200",
+            "title": "패션 쥬얼리 세트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "422999",
+        "title": "기타 쥬얼리",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "400",
+    "title": "패션 액세서리",
+    "subCategories": [
+      {
+        "id": "400070",
+        "title": "모자",
+        "subCategories": [
+          {
+            "id": "400070100",
+            "title": "볼캡",
+            "subCategories": []
+          },
+          {
+            "id": "400070700",
+            "title": "버킷",
+            "subCategories": []
+          },
+          {
+            "id": "400070200",
+            "title": "스냅백",
+            "subCategories": []
+          },
+          {
+            "id": "400070500",
+            "title": "비니",
+            "subCategories": []
+          },
+          {
+            "id": "400070999",
+            "title": "기타(모자)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400080",
+        "title": "안경/선글라스",
+        "subCategories": [
+          {
+            "id": "400080300",
+            "title": "선글라스",
+            "subCategories": []
+          },
+          {
+            "id": "400080200",
+            "title": "안경",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400120",
+        "title": "목도리/장갑",
+        "subCategories": [
+          {
+            "id": "400120100",
+            "title": "목도리",
+            "subCategories": []
+          },
+          {
+            "id": "400120200",
+            "title": "장갑",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400130",
+        "title": "스카프/넥타이",
+        "subCategories": [
+          {
+            "id": "400130100",
+            "title": "스카프",
+            "subCategories": []
+          },
+          {
+            "id": "400130200",
+            "title": "넥타이",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400110",
+        "title": "벨트",
+        "subCategories": [
+          {
+            "id": "400110100",
+            "title": "남성 벨트",
+            "subCategories": []
+          },
+          {
+            "id": "400110200",
+            "title": "여성 벨트",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400140",
+        "title": "양말/스타킹",
+        "subCategories": [
+          {
+            "id": "400140100",
+            "title": "양말",
+            "subCategories": []
+          },
+          {
+            "id": "400140200",
+            "title": "스타킹",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "400090",
+        "title": "우산/양산",
+        "subCategories": []
+      },
+      {
+        "id": "400600",
+        "title": "키링/키케이스",
+        "subCategories": []
+      },
+      {
+        "id": "400999",
+        "title": "기타 액세서리",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "600",
+    "title": "디지털",
+    "subCategories": [
+      {
+        "id": "600700",
+        "title": "휴대폰",
+        "subCategories": [
+          {
+            "id": "600700001",
+            "title": "스마트폰",
+            "subCategories": []
+          },
+          {
+            "id": "600700002",
+            "title": "일반폰(피처폰)",
+            "subCategories": []
+          },
+          {
+            "id": "600700003",
+            "title": "케이스/보호필름/액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "600700010",
+            "title": "케이블/충전기/주변기기",
+            "subCategories": []
+          },
+          {
+            "id": "600700999",
+            "title": "기타 휴대폰",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600710",
+        "title": "태블릿",
+        "subCategories": [
+          {
+            "id": "600710100",
+            "title": "태블릿",
+            "subCategories": []
+          },
+          {
+            "id": "600710200",
+            "title": "케이스/보호필름/액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "600710300",
+            "title": "케이블/충전기/주변기기",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600720",
+        "title": "웨어러블(워치/밴드)",
+        "subCategories": [
+          {
+            "id": "600720100",
+            "title": "스마트워치/밴드",
+            "subCategories": []
+          },
+          {
+            "id": "600720200",
+            "title": "케이스/보호필름/액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "600720300",
+            "title": "케이블/충전기/주변기기",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600500",
+        "title": "오디오/영상/관련기기",
+        "subCategories": [
+          {
+            "id": "600500010",
+            "title": "이어폰",
+            "subCategories": []
+          },
+          {
+            "id": "600500011",
+            "title": "헤드폰",
+            "subCategories": []
+          },
+          {
+            "id": "600500006",
+            "title": "스피커/앰프",
+            "subCategories": []
+          },
+          {
+            "id": "600500004",
+            "title": "MP3/PMP",
+            "subCategories": []
+          },
+          {
+            "id": "600500002",
+            "title": "비디오/프로젝터",
+            "subCategories": []
+          },
+          {
+            "id": "600500005",
+            "title": "오디오/홈시어터",
+            "subCategories": []
+          },
+          {
+            "id": "600500999",
+            "title": "기타 오디오/영상/관련기기",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600100",
+        "title": "PC/노트북",
+        "subCategories": [
+          {
+            "id": "600100006",
+            "title": "데스크탑",
+            "subCategories": []
+          },
+          {
+            "id": "600100001",
+            "title": "노트북/넷북",
+            "subCategories": []
+          },
+          {
+            "id": "600100007",
+            "title": "모니터",
+            "subCategories": []
+          },
+          {
+            "id": "600100010",
+            "title": "키보드",
+            "subCategories": []
+          },
+          {
+            "id": "600100011",
+            "title": "마우스",
+            "subCategories": []
+          },
+          {
+            "id": "600100005",
+            "title": "기타 PC 주변기기",
+            "subCategories": []
+          },
+          {
+            "id": "600100004",
+            "title": "노트북 가방/액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "600100999",
+            "title": "기타 PC/노트북",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600600",
+        "title": "게임/타이틀",
+        "subCategories": [
+          {
+            "id": "600600001",
+            "title": "닌텐도/NDS/Wii",
+            "subCategories": []
+          },
+          {
+            "id": "600600002",
+            "title": "소니/플레이스테이션",
+            "subCategories": []
+          },
+          {
+            "id": "600600003",
+            "title": "XBOX",
+            "subCategories": []
+          },
+          {
+            "id": "600600005",
+            "title": "PC게임",
+            "subCategories": []
+          },
+          {
+            "id": "600600999",
+            "title": "기타 게임/타이틀",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600300",
+        "title": "카메라/DSLR",
+        "subCategories": [
+          {
+            "id": "600300003",
+            "title": "필름카메라/중형카메라",
+            "subCategories": []
+          },
+          {
+            "id": "600300001",
+            "title": "DSLR/미러리스",
+            "subCategories": []
+          },
+          {
+            "id": "600300004",
+            "title": "렌즈/필터/컨버터",
+            "subCategories": []
+          },
+          {
+            "id": "600300002",
+            "title": "일반디카/토이카메라",
+            "subCategories": []
+          },
+          {
+            "id": "600300005",
+            "title": "삼각대/플래시/조명",
+            "subCategories": []
+          },
+          {
+            "id": "600300007",
+            "title": "디지털 캠코더",
+            "subCategories": []
+          },
+          {
+            "id": "600300006",
+            "title": "메모리/배터리/가방",
+            "subCategories": []
+          },
+          {
+            "id": "600300999",
+            "title": "기타 카메라",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "600200",
+        "title": "PC부품/저장장치",
+        "subCategories": [
+          {
+            "id": "600200003",
+            "title": "CPU/메인보드",
+            "subCategories": []
+          },
+          {
+            "id": "600200004",
+            "title": "HDD/ODD/SSD",
+            "subCategories": []
+          },
+          {
+            "id": "600200008",
+            "title": "USB/케이블/스피커",
+            "subCategories": []
+          },
+          {
+            "id": "600200007",
+            "title": "복합기/프린터",
+            "subCategories": []
+          },
+          {
+            "id": "600200009",
+            "title": "네트워크장비",
+            "subCategories": []
+          },
+          {
+            "id": "600200012",
+            "title": "쿨러/파워서플라이",
+            "subCategories": []
+          },
+          {
+            "id": "600200005",
+            "title": "메모리/VGA",
+            "subCategories": []
+          },
+          {
+            "id": "600200010",
+            "title": "소모품",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "610",
+    "title": "가전제품",
+    "subCategories": [
+      {
+        "id": "610500",
+        "title": "생활가전",
+        "subCategories": [
+          {
+            "id": "610500006",
+            "title": "마사지기",
+            "subCategories": []
+          },
+          {
+            "id": "610500005",
+            "title": "청소기",
+            "subCategories": []
+          },
+          {
+            "id": "610500002",
+            "title": "공기청정기",
+            "subCategories": []
+          },
+          {
+            "id": "610500003",
+            "title": "가습기",
+            "subCategories": []
+          },
+          {
+            "id": "610500008",
+            "title": "제습기",
+            "subCategories": []
+          },
+          {
+            "id": "610500009",
+            "title": "선풍기/냉풍기",
+            "subCategories": []
+          },
+          {
+            "id": "610500007",
+            "title": "히터/온풍기",
+            "subCategories": []
+          },
+          {
+            "id": "610500004",
+            "title": "전기매트/장판",
+            "subCategories": []
+          },
+          {
+            "id": "610500001",
+            "title": "다리미",
+            "subCategories": []
+          },
+          {
+            "id": "610500010",
+            "title": "미싱/재봉틀",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "610600",
+        "title": "주방가전",
+        "subCategories": [
+          {
+            "id": "610600003",
+            "title": "인덕션/전기레인지",
+            "subCategories": []
+          },
+          {
+            "id": "610600008",
+            "title": "전기밥솥",
+            "subCategories": []
+          },
+          {
+            "id": "610600002",
+            "title": "커피머신",
+            "subCategories": []
+          },
+          {
+            "id": "610600001",
+            "title": "에어프라이어",
+            "subCategories": []
+          },
+          {
+            "id": "610600006",
+            "title": "믹서기/블렌더",
+            "subCategories": []
+          },
+          {
+            "id": "610600005",
+            "title": "식기세척기",
+            "subCategories": []
+          },
+          {
+            "id": "610600010",
+            "title": "정수기",
+            "subCategories": []
+          },
+          {
+            "id": "610600007",
+            "title": "오븐",
+            "subCategories": []
+          },
+          {
+            "id": "610600004",
+            "title": "전기포트",
+            "subCategories": []
+          },
+          {
+            "id": "610600011",
+            "title": "토스터",
+            "subCategories": []
+          },
+          {
+            "id": "610600009",
+            "title": "전자레인지",
+            "subCategories": []
+          },
+          {
+            "id": "610600012",
+            "title": "음식물 처리기",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "610700",
+        "title": "미용가전",
+        "subCategories": [
+          {
+            "id": "610700003",
+            "title": "피부케어기기",
+            "subCategories": []
+          },
+          {
+            "id": "610700001",
+            "title": "고데기",
+            "subCategories": []
+          },
+          {
+            "id": "610700002",
+            "title": "드라이기",
+            "subCategories": []
+          },
+          {
+            "id": "610700004",
+            "title": "면도기/이발기",
+            "subCategories": []
+          },
+          {
+            "id": "610700005",
+            "title": "제모기",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "610200",
+        "title": "냉장고",
+        "subCategories": []
+      },
+      {
+        "id": "610400",
+        "title": "에어컨",
+        "subCategories": []
+      },
+      {
+        "id": "610300",
+        "title": "세탁기/건조기",
+        "subCategories": []
+      },
+      {
+        "id": "610100",
+        "title": "TV",
+        "subCategories": []
+      },
+      {
+        "id": "610800",
+        "title": "사무기기(복사기/팩스 등)",
+        "subCategories": []
+      },
+      {
+        "id": "610999",
+        "title": "기타 가전제품",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "700",
+    "title": "스포츠/레저",
+    "subCategories": [
+      {
+        "id": "700600",
+        "title": "골프",
+        "subCategories": [
+          {
+            "id": "700600300",
+            "title": "골프 채",
+            "subCategories": []
+          },
+          {
+            "id": "700600500",
+            "title": "골프 남성 의류",
+            "subCategories": []
+          },
+          {
+            "id": "700600400",
+            "title": "골프 여성 의류",
+            "subCategories": []
+          },
+          {
+            "id": "700600001",
+            "title": "골프백",
+            "subCategories": []
+          },
+          {
+            "id": "700600002",
+            "title": "골프공",
+            "subCategories": []
+          },
+          {
+            "id": "700600003",
+            "title": "골프 커버",
+            "subCategories": []
+          },
+          {
+            "id": "700600900",
+            "title": "기타 골프 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700200",
+        "title": "캠핑",
+        "subCategories": [
+          {
+            "id": "700200102",
+            "title": "캠핑 의자/테이블",
+            "subCategories": []
+          },
+          {
+            "id": "700200200",
+            "title": "캠핑 취사용품",
+            "subCategories": []
+          },
+          {
+            "id": "700200101",
+            "title": "캠핑 랜턴",
+            "subCategories": []
+          },
+          {
+            "id": "700200103",
+            "title": "침낭/매트/해먹",
+            "subCategories": []
+          },
+          {
+            "id": "700200004",
+            "title": "텐트/그늘막",
+            "subCategories": []
+          },
+          {
+            "id": "700200999",
+            "title": "기타 캠핑 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700250",
+        "title": "낚시",
+        "subCategories": [
+          {
+            "id": "700250400",
+            "title": "공통 낚시 장비",
+            "subCategories": []
+          },
+          {
+            "id": "700250100",
+            "title": "바다 낚시",
+            "subCategories": []
+          },
+          {
+            "id": "700250200",
+            "title": "민물 낚시",
+            "subCategories": []
+          },
+          {
+            "id": "700250300",
+            "title": "루어/플라이 낚시",
+            "subCategories": []
+          },
+          {
+            "id": "700250900",
+            "title": "낚시 의류 및 기타 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700110",
+        "title": "축구",
+        "subCategories": [
+          {
+            "id": "700110200",
+            "title": "축구 의류/잡화",
+            "subCategories": []
+          },
+          {
+            "id": "700110100",
+            "title": "축구 용품",
+            "subCategories": []
+          },
+          {
+            "id": "700110300",
+            "title": "굿즈(카드/사인볼 등)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700120",
+        "title": "야구",
+        "subCategories": [
+          {
+            "id": "700120200",
+            "title": "야구 의류/잡화",
+            "subCategories": []
+          },
+          {
+            "id": "700120100",
+            "title": "야구 용품",
+            "subCategories": []
+          },
+          {
+            "id": "700120300",
+            "title": "글러브",
+            "subCategories": []
+          },
+          {
+            "id": "700120400",
+            "title": "굿즈(카드/사인볼 등)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700130",
+        "title": "농구",
+        "subCategories": [
+          {
+            "id": "700130200",
+            "title": "농구 의류/잡화",
+            "subCategories": []
+          },
+          {
+            "id": "700130100",
+            "title": "농구 용품",
+            "subCategories": []
+          },
+          {
+            "id": "700130300",
+            "title": "굿즈(카드/사인볼 등)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700350",
+        "title": "자전거",
+        "subCategories": [
+          {
+            "id": "700350900",
+            "title": "자전거 의류 및 액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "700350950",
+            "title": "자전거 부품",
+            "subCategories": []
+          },
+          {
+            "id": "700350100",
+            "title": "클래식/픽시",
+            "subCategories": []
+          },
+          {
+            "id": "700350500",
+            "title": "로드/BMX",
+            "subCategories": []
+          },
+          {
+            "id": "700350300",
+            "title": "MTB/산악",
+            "subCategories": []
+          },
+          {
+            "id": "700350600",
+            "title": "전동/하이브리드",
+            "subCategories": []
+          },
+          {
+            "id": "700350400",
+            "title": "미니벨로/접이식",
+            "subCategories": []
+          },
+          {
+            "id": "700350700",
+            "title": "기타 자전거",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700700",
+        "title": "등산/클라이밍",
+        "subCategories": [
+          {
+            "id": "700700100",
+            "title": "남성 등산복",
+            "subCategories": []
+          },
+          {
+            "id": "700700200",
+            "title": "여성 등산복",
+            "subCategories": []
+          },
+          {
+            "id": "700700300",
+            "title": "등산 가방",
+            "subCategories": []
+          },
+          {
+            "id": "700700700",
+            "title": "암벽/클라이밍",
+            "subCategories": []
+          },
+          {
+            "id": "700700600",
+            "title": "기타 등산 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700650",
+        "title": "헬스/요가/필라테스",
+        "subCategories": [
+          {
+            "id": "700650100",
+            "title": "헬스/요가/필라테스 장비",
+            "subCategories": []
+          },
+          {
+            "id": "700650200",
+            "title": "헬스/요가/필라테스 의류",
+            "subCategories": []
+          },
+          {
+            "id": "700650999",
+            "title": "기타 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700500",
+        "title": "인라인/스케이트보드",
+        "subCategories": []
+      },
+      {
+        "id": "700400",
+        "title": "전동킥보드/전동휠",
+        "subCategories": []
+      },
+      {
+        "id": "700150",
+        "title": "테니스",
+        "subCategories": []
+      },
+      {
+        "id": "700140",
+        "title": "배드민턴",
+        "subCategories": []
+      },
+      {
+        "id": "700160",
+        "title": "볼링",
+        "subCategories": []
+      },
+      {
+        "id": "700170",
+        "title": "탁구",
+        "subCategories": []
+      },
+      {
+        "id": "700180",
+        "title": "당구",
+        "subCategories": []
+      },
+      {
+        "id": "700900",
+        "title": "겨울 스포츠",
+        "subCategories": [
+          {
+            "id": "700900300",
+            "title": "스키/보드 의류 및 잡화",
+            "subCategories": []
+          },
+          {
+            "id": "700900400",
+            "title": "스노우보드 장비",
+            "subCategories": []
+          },
+          {
+            "id": "700900100",
+            "title": "스키 장비",
+            "subCategories": []
+          },
+          {
+            "id": "700900900",
+            "title": "기타 겨울 스포츠",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700800",
+        "title": "수상 스포츠",
+        "subCategories": [
+          {
+            "id": "700800200",
+            "title": "남성 수영복/래쉬가드",
+            "subCategories": []
+          },
+          {
+            "id": "700800100",
+            "title": "여성 수영복/래쉬가드",
+            "subCategories": []
+          },
+          {
+            "id": "700800300",
+            "title": "수영/물놀이 용품",
+            "subCategories": []
+          },
+          {
+            "id": "700800500",
+            "title": "서핑",
+            "subCategories": []
+          },
+          {
+            "id": "700800700",
+            "title": "기타 수상 스포츠",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700810",
+        "title": "격투/무술",
+        "subCategories": [
+          {
+            "id": "700810200",
+            "title": "복싱",
+            "subCategories": []
+          },
+          {
+            "id": "700810100",
+            "title": "주짓수",
+            "subCategories": []
+          },
+          {
+            "id": "700810999",
+            "title": "기타 격투/무술",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "700950",
+        "title": "기타 스포츠",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "750",
+    "title": "차량/오토바이",
+    "subCategories": [
+      {
+        "id": "750610",
+        "title": "차량 용품/부품",
+        "subCategories": [
+          {
+            "id": "750610100",
+            "title": "타이어/휠",
+            "subCategories": []
+          },
+          {
+            "id": "750610200",
+            "title": "차량 부품",
+            "subCategories": []
+          },
+          {
+            "id": "750610300",
+            "title": "차량/튜닝 용품",
+            "subCategories": []
+          },
+          {
+            "id": "750610400",
+            "title": "네비게이션/블랙박스",
+            "subCategories": []
+          },
+          {
+            "id": "750610500",
+            "title": "카오디오/영상",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "750800",
+        "title": "오토바이/스쿠터",
+        "subCategories": [
+          {
+            "id": "750800100",
+            "title": "오토바이(125cc 이하)",
+            "subCategories": []
+          },
+          {
+            "id": "750800200",
+            "title": "오토바이(125cc 초과)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "750810",
+        "title": "오토바이 용품/부품",
+        "subCategories": [
+          {
+            "id": "750810100",
+            "title": "라이더 용품",
+            "subCategories": []
+          },
+          {
+            "id": "750810300",
+            "title": "오토바이 부품",
+            "subCategories": []
+          },
+          {
+            "id": "750810200",
+            "title": "오토바이/튜닝 용품",
+            "subCategories": []
+          },
+          {
+            "id": "750810999",
+            "title": "기타(오토바이 용품/부품)",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "910",
+    "title": "스타굿즈",
+    "subCategories": [
+      {
+        "id": "910100",
+        "title": "보이그룹",
+        "subCategories": [
+          {
+            "id": "910100004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910100001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910100003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910100008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910100002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910100006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910100007",
+            "title": "기타(보이그룹)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910200",
+        "title": "걸그룹",
+        "subCategories": [
+          {
+            "id": "910200004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910200001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910200003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910200002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910200008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910200006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910200007",
+            "title": "기타(걸그룹)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910500",
+        "title": "솔로(남)",
+        "subCategories": [
+          {
+            "id": "910500004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910500001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910500003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910500008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910500002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910500006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910500007",
+            "title": "기타(솔로-남)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910400",
+        "title": "솔로(여)",
+        "subCategories": [
+          {
+            "id": "910400004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910400001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910400003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910400008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910400002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910400006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910400007",
+            "title": "기타(솔로-여)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910600",
+        "title": "배우(남)",
+        "subCategories": [
+          {
+            "id": "910600004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910600001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910600003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910600008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910600002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910600006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910600007",
+            "title": "기타(배우-남)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910700",
+        "title": "배우(여)",
+        "subCategories": [
+          {
+            "id": "910700004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910700001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910700003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910700008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910700002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910700006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910700007",
+            "title": "기타(배우-여)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910800",
+        "title": "방송/예능/캐릭터",
+        "subCategories": [
+          {
+            "id": "910800004",
+            "title": "음반/영상물",
+            "subCategories": []
+          },
+          {
+            "id": "910800001",
+            "title": "팬시/포토카드",
+            "subCategories": []
+          },
+          {
+            "id": "910800003",
+            "title": "포스터/화보",
+            "subCategories": []
+          },
+          {
+            "id": "910800008",
+            "title": "인형/피규어",
+            "subCategories": []
+          },
+          {
+            "id": "910800002",
+            "title": "응원도구",
+            "subCategories": []
+          },
+          {
+            "id": "910800006",
+            "title": "의류/패션잡화",
+            "subCategories": []
+          },
+          {
+            "id": "910800007",
+            "title": "기타(방송인)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "910999",
+        "title": "기타",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "930",
+    "title": "키덜트",
+    "subCategories": [
+      {
+        "id": "930100",
+        "title": "피규어/인형",
+        "subCategories": []
+      },
+      {
+        "id": "930200",
+        "title": "레고/블럭",
+        "subCategories": []
+      },
+      {
+        "id": "930300",
+        "title": "프라모델",
+        "subCategories": []
+      },
+      {
+        "id": "930500",
+        "title": "RC/드론",
+        "subCategories": []
+      },
+      {
+        "id": "930400",
+        "title": "보드게임",
+        "subCategories": []
+      },
+      {
+        "id": "930600",
+        "title": "서바이벌건",
+        "subCategories": []
+      },
+      {
+        "id": "930999",
+        "title": "기타(키덜트)",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "990",
+    "title": "예술/희귀/수집품",
+    "subCategories": [
+      {
+        "id": "990100",
+        "title": "희귀/수집품",
+        "subCategories": []
+      },
+      {
+        "id": "990200",
+        "title": "골동품",
+        "subCategories": []
+      },
+      {
+        "id": "990300",
+        "title": "예술작품",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "920",
+    "title": "음반/악기",
+    "subCategories": [
+      {
+        "id": "920100",
+        "title": "CD/DVD/LP",
+        "subCategories": []
+      },
+      {
+        "id": "920200",
+        "title": "악기",
+        "subCategories": [
+          {
+            "id": "920200100",
+            "title": "관악기",
+            "subCategories": []
+          },
+          {
+            "id": "920200200",
+            "title": "현악기",
+            "subCategories": []
+          },
+          {
+            "id": "920200300",
+            "title": "타악기",
+            "subCategories": []
+          },
+          {
+            "id": "920200500",
+            "title": "건반악기",
+            "subCategories": []
+          },
+          {
+            "id": "920200400",
+            "title": "전자악기",
+            "subCategories": []
+          },
+          {
+            "id": "920200600",
+            "title": "악기 용품",
+            "subCategories": []
+          },
+          {
+            "id": "920200999",
+            "title": "기타(음반/악기)",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "900",
+    "title": "도서/티켓/문구",
+    "subCategories": [
+      {
+        "id": "900100",
+        "title": "도서",
+        "subCategories": [
+          {
+            "id": "900100011",
+            "title": "시/소설",
+            "subCategories": []
+          },
+          {
+            "id": "900100013",
+            "title": "자기계발",
+            "subCategories": []
+          },
+          {
+            "id": "900100012",
+            "title": "교양/인문",
+            "subCategories": []
+          },
+          {
+            "id": "900100014",
+            "title": "경제/경영",
+            "subCategories": []
+          },
+          {
+            "id": "900100004",
+            "title": "학습/사전/참고서",
+            "subCategories": []
+          },
+          {
+            "id": "900100009",
+            "title": "아동/어린이",
+            "subCategories": []
+          },
+          {
+            "id": "900100010",
+            "title": "만화",
+            "subCategories": []
+          },
+          {
+            "id": "900100007",
+            "title": "예술/디자인",
+            "subCategories": []
+          },
+          {
+            "id": "900100006",
+            "title": "여행/취미/레저/건강",
+            "subCategories": []
+          },
+          {
+            "id": "900100002",
+            "title": "사회/정치/법",
+            "subCategories": []
+          },
+          {
+            "id": "900100008",
+            "title": "과학/IT",
+            "subCategories": []
+          },
+          {
+            "id": "900100005",
+            "title": "간행물",
+            "subCategories": []
+          },
+          {
+            "id": "900100999",
+            "title": "기타(도서)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "900500",
+        "title": "문구",
+        "subCategories": [
+          {
+            "id": "900500200",
+            "title": "학습도구/문구/필기류",
+            "subCategories": []
+          },
+          {
+            "id": "900500100",
+            "title": "미술/화방용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "900220",
+        "title": "기프티콘/쿠폰",
+        "subCategories": [
+          {
+            "id": "900220003",
+            "title": "치킨/피자/햄버거",
+            "subCategories": []
+          },
+          {
+            "id": "900220002",
+            "title": "베이커리/도넛/아이스크림",
+            "subCategories": []
+          },
+          {
+            "id": "900220001",
+            "title": "커피(음료)",
+            "subCategories": []
+          },
+          {
+            "id": "900220008",
+            "title": "편의점",
+            "subCategories": []
+          },
+          {
+            "id": "900220999",
+            "title": "기타(기프티콘/쿠폰)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "900230",
+        "title": "상품권",
+        "subCategories": [
+          {
+            "id": "900230002",
+            "title": "문화/도서",
+            "subCategories": []
+          },
+          {
+            "id": "900230001",
+            "title": "백화점",
+            "subCategories": []
+          },
+          {
+            "id": "900230003",
+            "title": "외식",
+            "subCategories": []
+          },
+          {
+            "id": "900230999",
+            "title": "기타(상품권)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "900210",
+        "title": "티켓",
+        "subCategories": [
+          {
+            "id": "900210002",
+            "title": "뮤지컬/연극",
+            "subCategories": []
+          },
+          {
+            "id": "900210001",
+            "title": "콘서트",
+            "subCategories": []
+          },
+          {
+            "id": "900210004",
+            "title": "영화(예매/관람권)",
+            "subCategories": []
+          },
+          {
+            "id": "900210007",
+            "title": "여행/숙박/렌트",
+            "subCategories": []
+          },
+          {
+            "id": "900210005",
+            "title": "테마파크",
+            "subCategories": []
+          },
+          {
+            "id": "900210006",
+            "title": "스포츠/레저",
+            "subCategories": []
+          },
+          {
+            "id": "900210003",
+            "title": "공연/전시/행사",
+            "subCategories": []
+          },
+          {
+            "id": "900210999",
+            "title": "기타(티켓)",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "410",
+    "title": "뷰티/미용",
+    "subCategories": [
+      {
+        "id": "410100",
+        "title": "스킨케어",
+        "subCategories": [
+          {
+            "id": "410100400",
+            "title": "클렌징/스크럽",
+            "subCategories": []
+          },
+          {
+            "id": "410100100",
+            "title": "스킨/토너/미스트",
+            "subCategories": []
+          },
+          {
+            "id": "410100200",
+            "title": "로션/에멀젼",
+            "subCategories": []
+          },
+          {
+            "id": "410100300",
+            "title": "에센스/크림",
+            "subCategories": []
+          },
+          {
+            "id": "410100500",
+            "title": "팩/마스크",
+            "subCategories": []
+          },
+          {
+            "id": "410100600",
+            "title": "썬케어",
+            "subCategories": []
+          },
+          {
+            "id": "410100999",
+            "title": "기타(스킨케어)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410400",
+        "title": "색조메이크업",
+        "subCategories": [
+          {
+            "id": "410400700",
+            "title": "아이라이너/브로우",
+            "subCategories": []
+          },
+          {
+            "id": "410400500",
+            "title": "아이섀도우",
+            "subCategories": []
+          },
+          {
+            "id": "410400600",
+            "title": "마스카라",
+            "subCategories": []
+          },
+          {
+            "id": "410400100",
+            "title": "립틴트",
+            "subCategories": []
+          },
+          {
+            "id": "410400300",
+            "title": "립밤/립글로즈",
+            "subCategories": []
+          },
+          {
+            "id": "410400200",
+            "title": "립스틱",
+            "subCategories": []
+          },
+          {
+            "id": "410400400",
+            "title": "치크/블러셔",
+            "subCategories": []
+          },
+          {
+            "id": "410400999",
+            "title": "기타(색조메이크업)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410300",
+        "title": "베이스메이크업",
+        "subCategories": [
+          {
+            "id": "410300300",
+            "title": "메이크업베이스",
+            "subCategories": []
+          },
+          {
+            "id": "410300200",
+            "title": "BB/CC크림",
+            "subCategories": []
+          },
+          {
+            "id": "410300600",
+            "title": "쿠션팩트",
+            "subCategories": []
+          },
+          {
+            "id": "410300100",
+            "title": "파운데이션",
+            "subCategories": []
+          },
+          {
+            "id": "410300500",
+            "title": "파우더/팩트",
+            "subCategories": []
+          },
+          {
+            "id": "410300400",
+            "title": "프라이머/컨실러",
+            "subCategories": []
+          },
+          {
+            "id": "410300999",
+            "title": "기타(베이스메이크업)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410600",
+        "title": "바디/헤어케어",
+        "subCategories": [
+          {
+            "id": "410600100",
+            "title": "샴푸/린스",
+            "subCategories": []
+          },
+          {
+            "id": "410600200",
+            "title": "헤어에센스/트리트먼트",
+            "subCategories": []
+          },
+          {
+            "id": "410600400",
+            "title": "헤어스타일링",
+            "subCategories": []
+          },
+          {
+            "id": "410600300",
+            "title": "헤어컬러(염색)",
+            "subCategories": []
+          },
+          {
+            "id": "410600700",
+            "title": "발모제/탈모관련",
+            "subCategories": []
+          },
+          {
+            "id": "410600500",
+            "title": "바디클렌져/로션",
+            "subCategories": []
+          },
+          {
+            "id": "410600600",
+            "title": "핸드/풋케어",
+            "subCategories": []
+          },
+          {
+            "id": "410600999",
+            "title": "기타(헤어/바디)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410500",
+        "title": "향수/아로마",
+        "subCategories": [
+          {
+            "id": "410500100",
+            "title": "여성 향수",
+            "subCategories": []
+          },
+          {
+            "id": "410500200",
+            "title": "남성 향수",
+            "subCategories": []
+          },
+          {
+            "id": "410500300",
+            "title": "남여공용 향수",
+            "subCategories": []
+          },
+          {
+            "id": "410500999",
+            "title": "기타(향수/아로마)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410700",
+        "title": "네일아트/케어",
+        "subCategories": [
+          {
+            "id": "410700200",
+            "title": "네일아트/스티커",
+            "subCategories": []
+          },
+          {
+            "id": "410700100",
+            "title": "매니큐어/페디큐어",
+            "subCategories": []
+          },
+          {
+            "id": "410700400",
+            "title": "네일케어도구",
+            "subCategories": []
+          },
+          {
+            "id": "410700300",
+            "title": "네일리무버",
+            "subCategories": []
+          },
+          {
+            "id": "410700999",
+            "title": "기타(네일아트/케어)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410800",
+        "title": "미용소품/기기",
+        "subCategories": [
+          {
+            "id": "410800100",
+            "title": "뷰티소품(퍼프/거울)",
+            "subCategories": []
+          },
+          {
+            "id": "410800500",
+            "title": "메이크업 브러쉬",
+            "subCategories": []
+          },
+          {
+            "id": "410800200",
+            "title": "화장품 파우치/정리함",
+            "subCategories": []
+          },
+          {
+            "id": "410800999",
+            "title": "기타(이미용품)",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "410900",
+        "title": "다이어트/이너뷰티",
+        "subCategories": []
+      },
+      {
+        "id": "410950",
+        "title": "남성 화장품",
+        "subCategories": [
+          {
+            "id": "410950100",
+            "title": "스킨/로션",
+            "subCategories": []
+          },
+          {
+            "id": "410950600",
+            "title": "클렌징/마스크",
+            "subCategories": []
+          },
+          {
+            "id": "410950200",
+            "title": "에센스/크림",
+            "subCategories": []
+          },
+          {
+            "id": "410950500",
+            "title": "BB크림",
+            "subCategories": []
+          },
+          {
+            "id": "410950400",
+            "title": "선케어",
+            "subCategories": []
+          },
+          {
+            "id": "410950800",
+            "title": "왁스",
+            "subCategories": []
+          },
+          {
+            "id": "410950300",
+            "title": "올인원",
+            "subCategories": []
+          },
+          {
+            "id": "410950700",
+            "title": "세트",
+            "subCategories": []
+          },
+          {
+            "id": "410950999",
+            "title": "기타(남성화장품)",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "810",
+    "title": "가구/인테리어",
+    "subCategories": [
+      {
+        "id": "810100",
+        "title": "가구",
+        "subCategories": [
+          {
+            "id": "810100100",
+            "title": "거실가구",
+            "subCategories": []
+          },
+          {
+            "id": "810100200",
+            "title": "침실가구",
+            "subCategories": []
+          },
+          {
+            "id": "810100300",
+            "title": "학생/서재/사무용가구",
+            "subCategories": []
+          },
+          {
+            "id": "810100500",
+            "title": "선반/수납 가구",
+            "subCategories": []
+          },
+          {
+            "id": "810100600",
+            "title": "주방가구",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "810901",
+        "title": "침구",
+        "subCategories": []
+      },
+      {
+        "id": "810300",
+        "title": "수공예/수선",
+        "subCategories": [
+          {
+            "id": "810300100",
+            "title": "수공예품",
+            "subCategories": []
+          },
+          {
+            "id": "810300200",
+            "title": "수공예 용품/부자재",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "810902",
+        "title": "셀프 인테리어 용품",
+        "subCategories": []
+      },
+      {
+        "id": "810400",
+        "title": "인테리어 소품",
+        "subCategories": [
+          {
+            "id": "810400100",
+            "title": "포스터/그림/액자",
+            "subCategories": []
+          },
+          {
+            "id": "810400200",
+            "title": "디퓨저/캔들",
+            "subCategories": []
+          },
+          {
+            "id": "810400300",
+            "title": "쿠션/방석",
+            "subCategories": []
+          },
+          {
+            "id": "810400400",
+            "title": "탁상/벽시계",
+            "subCategories": []
+          },
+          {
+            "id": "810400500",
+            "title": "식탁보/테이블 매트",
+            "subCategories": []
+          },
+          {
+            "id": "810400600",
+            "title": "거울",
+            "subCategories": []
+          },
+          {
+            "id": "810400999",
+            "title": "기타 인테리어 소품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "810500",
+        "title": "꽃/원예",
+        "subCategories": [
+          {
+            "id": "810500100",
+            "title": "식물/꽃",
+            "subCategories": []
+          },
+          {
+            "id": "810500200",
+            "title": "원예 용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "810903",
+        "title": "조명",
+        "subCategories": []
+      },
+      {
+        "id": "810904",
+        "title": "카페트/러그/매트",
+        "subCategories": []
+      },
+      {
+        "id": "810905",
+        "title": "커튼/블라인드",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "800",
+    "title": "생활/주방용품",
+    "subCategories": [
+      {
+        "id": "800400",
+        "title": "주방용품",
+        "subCategories": [
+          {
+            "id": "800400050",
+            "title": "그릇/홈세트",
+            "subCategories": []
+          },
+          {
+            "id": "800400030",
+            "title": "잔/컵",
+            "subCategories": []
+          },
+          {
+            "id": "800400040",
+            "title": "텀블러/물병",
+            "subCategories": []
+          },
+          {
+            "id": "800400060",
+            "title": "수저/커트러리",
+            "subCategories": []
+          },
+          {
+            "id": "800400130",
+            "title": "업소용품/기기",
+            "subCategories": []
+          },
+          {
+            "id": "800400010",
+            "title": "냄비/프라이팬",
+            "subCategories": []
+          },
+          {
+            "id": "800400100",
+            "title": "조리도구",
+            "subCategories": []
+          },
+          {
+            "id": "800400090",
+            "title": "칼/도마",
+            "subCategories": []
+          },
+          {
+            "id": "800400070",
+            "title": "보관/밀폐용기",
+            "subCategories": []
+          },
+          {
+            "id": "800400020",
+            "title": "주전자/티포트",
+            "subCategories": []
+          },
+          {
+            "id": "800400110",
+            "title": "커피용품",
+            "subCategories": []
+          },
+          {
+            "id": "800400120",
+            "title": "제과/제빵",
+            "subCategories": []
+          },
+          {
+            "id": "800400080",
+            "title": "주방수납용품",
+            "subCategories": []
+          },
+          {
+            "id": "800400999",
+            "title": "기타 주방용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "800600",
+        "title": "욕실용품",
+        "subCategories": [
+          {
+            "id": "800600006",
+            "title": "구강/면도용품 ",
+            "subCategories": []
+          },
+          {
+            "id": "800600002",
+            "title": "샤워/목욕용품 ",
+            "subCategories": []
+          },
+          {
+            "id": "800600003",
+            "title": "수건/타월",
+            "subCategories": []
+          },
+          {
+            "id": "800600001",
+            "title": "샤워기/헤드/수전용품",
+            "subCategories": []
+          },
+          {
+            "id": "800600007",
+            "title": "욕실수납/정리",
+            "subCategories": []
+          },
+          {
+            "id": "800600004",
+            "title": "욕조/반신욕 용품",
+            "subCategories": []
+          },
+          {
+            "id": "800600005",
+            "title": "변기/비데용품",
+            "subCategories": []
+          },
+          {
+            "id": "800600999",
+            "title": "기타 욕실용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "800100",
+        "title": "생활용품",
+        "subCategories": [
+          {
+            "id": "800100011",
+            "title": "청소용품",
+            "subCategories": []
+          },
+          {
+            "id": "800100010",
+            "title": "세탁/빨래용품",
+            "subCategories": []
+          },
+          {
+            "id": "800100012",
+            "title": "세제",
+            "subCategories": []
+          },
+          {
+            "id": "800100014",
+            "title": "화장지",
+            "subCategories": []
+          },
+          {
+            "id": "800100013",
+            "title": "생리대",
+            "subCategories": []
+          },
+          {
+            "id": "800100999",
+            "title": "기타 생활용품",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "830",
+    "title": "공구/산업용품",
+    "subCategories": [
+      {
+        "id": "830100",
+        "title": "드릴/전동공구",
+        "subCategories": []
+      },
+      {
+        "id": "830200",
+        "title": "수공구/가정용 공구",
+        "subCategories": []
+      },
+      {
+        "id": "830300",
+        "title": "공구함",
+        "subCategories": []
+      },
+      {
+        "id": "830700",
+        "title": "산업용품/자재",
+        "subCategories": []
+      },
+      {
+        "id": "830600",
+        "title": "측정/계측/레벨",
+        "subCategories": []
+      },
+      {
+        "id": "830500",
+        "title": "공장기계/용접/가스",
+        "subCategories": []
+      },
+      {
+        "id": "830400",
+        "title": "에어/유압공구",
+        "subCategories": []
+      },
+      {
+        "id": "830999",
+        "title": "기타 산업용품",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "820",
+    "title": "식품",
+    "subCategories": [
+      {
+        "id": "820100",
+        "title": "건강식품",
+        "subCategories": []
+      },
+      {
+        "id": "820200",
+        "title": "농수축산물",
+        "subCategories": []
+      },
+      {
+        "id": "820300",
+        "title": "간식",
+        "subCategories": []
+      },
+      {
+        "id": "820700",
+        "title": "커피/차",
+        "subCategories": []
+      },
+      {
+        "id": "820600",
+        "title": "생수/음료",
+        "subCategories": []
+      },
+      {
+        "id": "820500",
+        "title": "면/통조림",
+        "subCategories": []
+      },
+      {
+        "id": "820800",
+        "title": "장/소스/오일",
+        "subCategories": []
+      },
+      {
+        "id": "820400",
+        "title": "간편조리식품",
+        "subCategories": []
+      },
+      {
+        "id": "820999",
+        "title": "기타 식품",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "500",
+    "title": "유아동/출산",
+    "subCategories": [
+      {
+        "id": "500110",
+        "title": "베이비의류(0-2세)",
+        "subCategories": [
+          {
+            "id": "500110004",
+            "title": "우주복/슈트",
+            "subCategories": []
+          },
+          {
+            "id": "500110010",
+            "title": "싸개/배냇저고리",
+            "subCategories": []
+          },
+          {
+            "id": "500110006",
+            "title": "원피스",
+            "subCategories": []
+          },
+          {
+            "id": "500110002",
+            "title": "유아상의",
+            "subCategories": []
+          },
+          {
+            "id": "500110003",
+            "title": "유아하의",
+            "subCategories": []
+          },
+          {
+            "id": "500110001",
+            "title": "유아내의/속옷",
+            "subCategories": []
+          },
+          {
+            "id": "500110005",
+            "title": "자켓/점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "500110007",
+            "title": "정장/드레스",
+            "subCategories": []
+          },
+          {
+            "id": "500110008",
+            "title": "베이비수영복",
+            "subCategories": []
+          },
+          {
+            "id": "500110009",
+            "title": "기타 베이비의류",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500111",
+        "title": "여아의류(3-6세)",
+        "subCategories": [
+          {
+            "id": "500111003",
+            "title": "원피스",
+            "subCategories": []
+          },
+          {
+            "id": "500111010",
+            "title": "상하복/세트",
+            "subCategories": []
+          },
+          {
+            "id": "500111008",
+            "title": "자켓/점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "500111009",
+            "title": "코트/정장",
+            "subCategories": []
+          },
+          {
+            "id": "500111007",
+            "title": "가디건/조끼",
+            "subCategories": []
+          },
+          {
+            "id": "500111005",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "500111004",
+            "title": "블라우스/셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500111001",
+            "title": "티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500111002",
+            "title": "바지",
+            "subCategories": []
+          },
+          {
+            "id": "500111006",
+            "title": "치마",
+            "subCategories": []
+          },
+          {
+            "id": "500111012",
+            "title": "스포츠/테마의류",
+            "subCategories": []
+          },
+          {
+            "id": "500111011",
+            "title": "속옷/잠옷",
+            "subCategories": []
+          },
+          {
+            "id": "500111013",
+            "title": "기타 여아의류",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500113",
+        "title": "남아의류(3-6세)",
+        "subCategories": [
+          {
+            "id": "500113008",
+            "title": "상하복/세트",
+            "subCategories": []
+          },
+          {
+            "id": "500113006",
+            "title": "자켓/점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "500113007",
+            "title": "코트/정장",
+            "subCategories": []
+          },
+          {
+            "id": "500113005",
+            "title": "가디건/조끼",
+            "subCategories": []
+          },
+          {
+            "id": "500113004",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "500113003",
+            "title": "셔츠/남방",
+            "subCategories": []
+          },
+          {
+            "id": "500113001",
+            "title": "티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500113002",
+            "title": "바지",
+            "subCategories": []
+          },
+          {
+            "id": "500113010",
+            "title": "스포츠/테마의류",
+            "subCategories": []
+          },
+          {
+            "id": "500113009",
+            "title": "속옷/잠옷",
+            "subCategories": []
+          },
+          {
+            "id": "500113011",
+            "title": "기타 남아의류",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500114",
+        "title": "여주니어의류(7세~)",
+        "subCategories": [
+          {
+            "id": "500114003",
+            "title": "원피스",
+            "subCategories": []
+          },
+          {
+            "id": "500114010",
+            "title": "상하복/세트",
+            "subCategories": []
+          },
+          {
+            "id": "500114008",
+            "title": "자켓/점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "500114009",
+            "title": "코트/정장",
+            "subCategories": []
+          },
+          {
+            "id": "500114007",
+            "title": "가디건/조끼",
+            "subCategories": []
+          },
+          {
+            "id": "500114005",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "500114004",
+            "title": "블라우스/셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500114001",
+            "title": "티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500114002",
+            "title": "바지",
+            "subCategories": []
+          },
+          {
+            "id": "500114006",
+            "title": "치마",
+            "subCategories": []
+          },
+          {
+            "id": "500114012",
+            "title": "스포츠/테마의류",
+            "subCategories": []
+          },
+          {
+            "id": "500114011",
+            "title": "속옷/잠옷",
+            "subCategories": []
+          },
+          {
+            "id": "500114013",
+            "title": "기타 여주니어의류",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500115",
+        "title": "남주니어의류(7세~)",
+        "subCategories": [
+          {
+            "id": "500115008",
+            "title": "상하복/세트",
+            "subCategories": []
+          },
+          {
+            "id": "500115006",
+            "title": "자켓/점퍼",
+            "subCategories": []
+          },
+          {
+            "id": "500115007",
+            "title": "코트/정장",
+            "subCategories": []
+          },
+          {
+            "id": "500115005",
+            "title": "가디건/조끼",
+            "subCategories": []
+          },
+          {
+            "id": "500115004",
+            "title": "니트/스웨터",
+            "subCategories": []
+          },
+          {
+            "id": "500115003",
+            "title": "셔츠/남방",
+            "subCategories": []
+          },
+          {
+            "id": "500115001",
+            "title": "티셔츠",
+            "subCategories": []
+          },
+          {
+            "id": "500115002",
+            "title": "바지",
+            "subCategories": []
+          },
+          {
+            "id": "500115010",
+            "title": "스포츠/테마의류",
+            "subCategories": []
+          },
+          {
+            "id": "500115009",
+            "title": "속옷/잠옷",
+            "subCategories": []
+          },
+          {
+            "id": "500115011",
+            "title": "기타 남주니어의류",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500116",
+        "title": "신발/가방/잡화",
+        "subCategories": [
+          {
+            "id": "500116005",
+            "title": "액세서리",
+            "subCategories": []
+          },
+          {
+            "id": "500116001",
+            "title": "신발",
+            "subCategories": []
+          },
+          {
+            "id": "500116002",
+            "title": "가방/지갑",
+            "subCategories": []
+          },
+          {
+            "id": "500116003",
+            "title": "모자",
+            "subCategories": []
+          },
+          {
+            "id": "500116004",
+            "title": "양말",
+            "subCategories": []
+          },
+          {
+            "id": "500116006",
+            "title": "기타 신발/가방/잡화",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500117",
+        "title": "유아동용품",
+        "subCategories": [
+          {
+            "id": "500117001",
+            "title": "유모차",
+            "subCategories": []
+          },
+          {
+            "id": "500117003",
+            "title": "아기띠",
+            "subCategories": []
+          },
+          {
+            "id": "500117002",
+            "title": "카시트",
+            "subCategories": []
+          },
+          {
+            "id": "500117004",
+            "title": "보행기/쏘서",
+            "subCategories": []
+          },
+          {
+            "id": "500117010",
+            "title": "기저귀",
+            "subCategories": []
+          },
+          {
+            "id": "500117005",
+            "title": "가구/침대/매트",
+            "subCategories": []
+          },
+          {
+            "id": "500117012",
+            "title": "이불/침구",
+            "subCategories": []
+          },
+          {
+            "id": "500117007",
+            "title": "목욕/구강용품",
+            "subCategories": []
+          },
+          {
+            "id": "500117008",
+            "title": "세탁/위생용품",
+            "subCategories": []
+          },
+          {
+            "id": "500117006",
+            "title": "유아동 스킨케어",
+            "subCategories": []
+          },
+          {
+            "id": "500117009",
+            "title": "기타 유아동용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500118",
+        "title": "임부 의류/용품",
+        "subCategories": [
+          {
+            "id": "500118006",
+            "title": "임부의류/수유복",
+            "subCategories": []
+          },
+          {
+            "id": "500118007",
+            "title": "임부스킨케어",
+            "subCategories": []
+          },
+          {
+            "id": "500118008",
+            "title": "기타 임부 의류/용품",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500119",
+        "title": "교구/완구/인형",
+        "subCategories": [
+          {
+            "id": "500119004",
+            "title": "인형(유아용)",
+            "subCategories": []
+          },
+          {
+            "id": "500119011",
+            "title": "캐릭터완구/로봇",
+            "subCategories": []
+          },
+          {
+            "id": "500119003",
+            "title": "교구/CD/DVD",
+            "subCategories": []
+          },
+          {
+            "id": "500119007",
+            "title": "퍼즐/블록",
+            "subCategories": []
+          },
+          {
+            "id": "500119009",
+            "title": "스포츠완구",
+            "subCategories": []
+          },
+          {
+            "id": "500119001",
+            "title": "신생아완구",
+            "subCategories": []
+          },
+          {
+            "id": "500119005",
+            "title": "자전거/승용완구",
+            "subCategories": []
+          },
+          {
+            "id": "500119008",
+            "title": "물놀이/계절용품",
+            "subCategories": []
+          },
+          {
+            "id": "500119006",
+            "title": "놀이집/텐트/미끄럼틀",
+            "subCategories": []
+          },
+          {
+            "id": "500119010",
+            "title": "기타 교구/완구/인형",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "500120",
+        "title": "수유/이유용품",
+        "subCategories": [
+          {
+            "id": "500120004",
+            "title": "수유용품",
+            "subCategories": []
+          },
+          {
+            "id": "500120006",
+            "title": "젖병/세정용품",
+            "subCategories": []
+          },
+          {
+            "id": "500120003",
+            "title": "분유",
+            "subCategories": []
+          },
+          {
+            "id": "500120005",
+            "title": "수저/식판/이유식용품",
+            "subCategories": []
+          },
+          {
+            "id": "500120007",
+            "title": "기타 수유/이유용품",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "980",
+    "title": "반려동물용품",
+    "subCategories": [
+      {
+        "id": "980100",
+        "title": "강아지 용품",
+        "subCategories": []
+      },
+      {
+        "id": "980200",
+        "title": "강아지 사료/간식",
+        "subCategories": []
+      },
+      {
+        "id": "980300",
+        "title": "기타(강아지)",
+        "subCategories": []
+      },
+      {
+        "id": "980400",
+        "title": "고양이 용품",
+        "subCategories": []
+      },
+      {
+        "id": "980500",
+        "title": "고양이 사료/간식",
+        "subCategories": []
+      },
+      {
+        "id": "980600",
+        "title": "기타(고양이)",
+        "subCategories": []
+      },
+      {
+        "id": "980990",
+        "title": "기타(반려동물 용품)",
+        "subCategories": []
+      },
+      {
+        "id": "980999",
+        "title": "기타(반려동물 사료/간식)",
+        "subCategories": []
+      }
+    ]
+  },
+  {
+    "id": "999",
+    "title": "기타",
+    "subCategories": []
+  },
+  {
+    "id": "210",
+    "title": "재능",
+    "subCategories": [
+      {
+        "id": "210212",
+        "title": "디자인/영상/사진",
+        "subCategories": [
+          {
+            "id": "210212001",
+            "title": "그림/디자인",
+            "subCategories": []
+          },
+          {
+            "id": "210212002",
+            "title": "사진/영상제작",
+            "subCategories": []
+          },
+          {
+            "id": "210212003",
+            "title": "음악/녹음",
+            "subCategories": []
+          },
+          {
+            "id": "210212004",
+            "title": "기타",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "210214",
+        "title": "생활서비스/지식",
+        "subCategories": [
+          {
+            "id": "210214003",
+            "title": "상담/노하우",
+            "subCategories": []
+          },
+          {
+            "id": "210214001",
+            "title": "생활서비스",
+            "subCategories": []
+          },
+          {
+            "id": "210214002",
+            "title": "대행서비스",
+            "subCategories": []
+          },
+          {
+            "id": "210214004",
+            "title": "기타",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "210211",
+        "title": "스타일/뷰티",
+        "subCategories": [
+          {
+            "id": "210211002",
+            "title": "피부/메이크업",
+            "subCategories": []
+          },
+          {
+            "id": "210211001",
+            "title": "의류/헤어",
+            "subCategories": []
+          },
+          {
+            "id": "210211003",
+            "title": "기타",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "210215",
+        "title": "블로그/문서/번역",
+        "subCategories": [
+          {
+            "id": "210215003",
+            "title": "포스팅/리뷰",
+            "subCategories": []
+          },
+          {
+            "id": "210215001",
+            "title": "타이핑/문서",
+            "subCategories": []
+          },
+          {
+            "id": "210215002",
+            "title": "번역/통역",
+            "subCategories": []
+          },
+          {
+            "id": "210215004",
+            "title": "기타",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "210216",
+        "title": "거래 대행",
+        "subCategories": [
+          {
+            "id": "210216002",
+            "title": "구매 대행",
+            "subCategories": []
+          },
+          {
+            "id": "210216001",
+            "title": "판매 대행",
+            "subCategories": []
+          },
+          {
+            "id": "210216003",
+            "title": "기타",
+            "subCategories": []
+          }
+        ]
+      },
+      {
+        "id": "210217",
+        "title": "기타 재능",
+        "subCategories": [
+          {
+            "id": "210217001",
+            "title": "기타 재능",
+            "subCategories": []
+          }
+        ]
+      }
+    ]
+  }
+]

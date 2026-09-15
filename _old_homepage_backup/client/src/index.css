@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&family=Charm&family=Sriracha&family=Pacifico&display=swap');
+@import "tailwindcss";
+@theme {
+  --color-background: #ffffff;
+  --color-text: #1a1a1a;
+  --color-accent: #000000;
+  --color-border: #eeeeee;
+  --color-softBackground: #f9f9f9;
+  --color-gold-light: #fdfaf2;
+  --color-gold: #c5a043;
+  --color-gold-deep: #a6822e;
+  --font-sans: "Inter", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text font-sans antialiased m-0 p-0;
+  }
+}
+
+@layer components {
+
+  /* Minimalist Button */
+  .btn-minimal {
+    @apply rounded-sm border border-border bg-white text-gray-800 text-[13px] uppercase tracking-wide transition-all duration-200 px-4 py-2 hover:border-black hover:text-black hover:bg-softBackground;
+  }
+
+  /* Catalog Product Card */
+  .product-card {
+    @apply bg-white flex flex-col items-center justify-center transition-transform duration-200;
+  }
+
+  .product-img {
+    @apply w-full object-cover bg-softBackground rounded-xl;
+    aspect-ratio: 800/674;
+    /* [수정] 조명 그림자 상쇄 및 보정 효과 강조 (대비 8%, 밝기 4% 증가, 입체감 부여) */
+    filter: contrast(1.08) brightness(1.04) drop-shadow(0 4px 6px rgba(0,0,0,0.08));
+  }
+
+  .product-img-archive {
+    @apply w-full object-contain object-top bg-softBackground rounded-xl mx-auto;
+    aspect-ratio: 800/674;
+    /* [수정] 조명 그림자 상쇄 및 보정 효과 강조 */
+    filter: contrast(1.08) brightness(1.04) drop-shadow(0 4px 6px rgba(0,0,0,0.08));
+  }
+
+  /* Zoom Image */
+  .zoom-container {
+    @apply relative w-full overflow-hidden rounded-xl bg-gray-50;
+    aspect-ratio: 9/8;
+  }
+
+  .zoom-container img {
+    @apply w-full h-full object-cover object-bottom transition-transform duration-300 origin-center;
+  }
+
+  @media (min-width: 768px) {
+    .zoom-container:hover img {
+      @apply cursor-zoom-in;
+    }
+  }
+
+  /* Archive Aesthetic (Clean & Premium Ivory) */
+  .vip-archive {
+    @apply bg-[#fdfbf7] text-[#333] min-h-screen relative transition-colors duration-700;
+    background-image:
+      radial-gradient(circle at 20% 30%, rgba(197, 160, 67, 0.03) 0%, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(166, 130, 46, 0.03) 0%, transparent 40%),
+      url("https://www.transparenttextures.com/patterns/cream-paper.png");
+  }
+
+  .vip-card {
+    @apply bg-white border border-[#c5a043]/20 shadow-lg transition-all duration-500 overflow-hidden rounded-md;
+    box-shadow: 0 4px 15px -5px rgba(197, 160, 67, 0.1);
+  }
+
+  .vip-card:hover {
+    @apply border-gold/40 -translate-y-2;
+    box-shadow: 0 15px 35px -12px rgba(197, 160, 67, 0.25);
+  }
+
+  /* Gold Gradients & Effects */
+  .text-gold {
+    background: linear-gradient(to right, #8d702a, #c5a043, #8d702a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% auto;
+  }
+
+  .shimmer-gold {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .shimmer-gold::after {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(45deg,
+        transparent 45%,
+        rgba(255, 255, 255, 0.3) 50%,
+        transparent 55%);
+    transform: rotate(45deg);
+    animation: shimmer 3s infinite;
+  }
+
+  /* Premium Archive Badge */
+  .vip-badge-premium {
+    @apply absolute bottom-3 left-3 px-3 py-1.5 bg-gradient-to-br from-[#d4af37] via-[#f9e5af] to-[#b8860b] 
+           text-black text-[10px] font-black tracking-[0.15em] uppercase shadow-xl z-20 rounded-[2px] border border-white/30;
+    font-family: serif;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2), inset 0 1px 1px rgba(255,255,255,0.4);
+    animation: gold-pulse 3s infinite;
+  }
+
+  /* Navigation Highlight Animation */
+  .nav-archive-shimmer {
+    background: linear-gradient(90deg, #666 0%, #c5a043 50%, #666 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shimmer-text 3s linear infinite;
+  }
+
+  .nav-archive-shimmer-active {
+    background: linear-gradient(90deg, #000 0%, #c5a043 50%, #000 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shimmer-text 2s linear infinite;
+    border-bottom: 2px solid #c5a043 !important;
+  }
+}
+
+@keyframes gold-shine {
+  to {
+    background-position: 200% center;
+  }
+}
+
+@keyframes gold-pulse {
+  0% { transform: scale(1); filter: brightness(1); }
+  50% { transform: scale(1.02); filter: brightness(1.1); }
+  100% { transform: scale(1); filter: brightness(1); }
+}
+
+@keyframes shimmer-text {
+  to { background-position: 200% center; }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translate(-100%, -100%) rotate(45deg);
+  }
+
+  100% {
+    transform: translate(100%, 100%) rotate(45deg);
+  }
+}
+
+/* 가격 듀얼 레인지 슬라이더 스타일 */
+.price-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+  margin: 0;
+  padding: 0;
+}
+
+.price-slider::-webkit-slider-runnable-track {
+  height: 2px;
+  background: transparent;
+  border: none;
+}
+
+.price-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #000;
+  border: 2px solid #fff;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  pointer-events: auto;
+  margin-top: -7px;
+}
+
+.price-slider::-moz-range-track {
+  height: 2px;
+  background: transparent;
+  border: none;
+}
+
+.price-slider::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #000;
+  border: 2px solid #fff;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+/* 스크롤바 숨김 (브랜드 바) */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* 쿠폰 프린트 전용 스타일 */
+@media print {
+  /* 기본 UI 숨김 */
+  body > * {
+    visibility: hidden;
+  }
+  
+  /* 프린트 영역만 표시 */
+  #coupon-print-area, #coupon-print-area * {
+    visibility: visible;
+  }
+  
+  #coupon-print-area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 210mm; /* A4 width */
+    height: 297mm; /* A4 height */
+    background: white;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* 배경색과 테두리를 강제로 인쇄하도록 설정 (크롬 등) */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  @page {
+    size: A4;
+    margin: 0; /* 여백 제거하여 딱 맞게 */
+  }
+}

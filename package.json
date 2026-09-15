@@ -1,0 +1,85 @@
+{
+  "name": "822-link",
+  "version": "1.0.0",
+  "description": "822 Link - 멀티 플랫폼 대량 등록 데이터 추출기",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "vite",
+    "electron:build": "vite build && electron-builder"
+  },
+  "build": {
+    "appId": "com.youini07.822link",
+    "productName": "822 Link",
+    "publish": null,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "python",
+        "to": "python",
+        "filter": [
+          "**/*.py"
+        ]
+      }
+    ],
+    "win": {
+      "icon": "build/icon.png",
+      "target": [
+        "nsis",
+        "portable"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.49.4",
+    "axios": "^1.20.0",
+    "chokidar": "^5.0.0",
+    "dotenv": "^17.4.2",
+    "electron-updater": "^6.8.9",
+    "googleapis": "^172.0.0",
+    "iconv-lite": "^0.7.3",
+    "jimp": "^1.6.1",
+    "lucide-react": "^0.513.0",
+    "node-telegram-bot-api": "^0.67.0",
+    "playwright": "^1.60.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "quill": "^2.0.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-error-boundary": "^6.1.5",
+    "react-router-dom": "^7.6.1",
+    "sql.js": "^1.12.0",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "@types/iconv-lite": "^0.0.1",
+    "@types/node-telegram-bot-api": "^0.64.14",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.2",
+    "concurrently": "^9.1.2",
+    "electron": "^35.1.2",
+    "electron-builder": "^25.1.8",
+    "tailwindcss": "^4.1.7",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-electron": "^0.28.8",
+    "vite-plugin-electron-renderer": "^0.14.6"
+  }
+}
