@@ -12,7 +12,7 @@
   },
   "build": {
     "appId": "com.youini07.822link",
-    "productName": "822 Link",
+    "productName": "822Link",
     "publish": null,
     "directories": {
       "output": "release"
@@ -47,6 +47,7 @@
     "@google/generative-ai": "^0.24.1",
     "@supabase/supabase-js": "^2.49.4",
     "axios": "^1.20.0",
+    "call-bind-apply-helpers": "^1.0.2",
     "chokidar": "^5.0.0",
     "dotenv": "^17.4.2",
     "electron-updater": "^6.8.9",
