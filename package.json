@@ -14,6 +14,7 @@
     "appId": "com.youini07.822link",
     "productName": "822Link",
     "publish": null,
+    "asar": false,
     "directories": {
       "output": "release"
     },
