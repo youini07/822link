@@ -2,8 +2,7 @@
 import './logger.js';
 import './logger.js';
 import { app, BrowserWindow, ipcMain, dialog, shell, protocol, net } from 'electron';
-import pkg from 'electron-updater';
-const { autoUpdater } = pkg;
+import { autoUpdater } from 'electron-updater';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { adminManager } from './admin.js';
